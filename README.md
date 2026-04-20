@@ -27,30 +27,7 @@ npm install
 npm run dev
 
 Folder Structure:
-PasteApp/
-|
-|--- node_modules/
-|--- public/
-|--- src/
-|     |   
-|     |--assets/
-|     |--Components/
-|     |--features/
-|     |--App.css
-|     |--App.jsx
-|     |--index.css
-|     |--main.jsx
-|     |__store.js
-|
-|---.gitignore
-|--- eslint.config.js
-|--- image-1.png
-|--- image.png
-|--- index.html
-|--- package-lock.json
-|--- package.json
-|--- README.md
-|___ vite.config.js
+![alt text](image-2.png)
 
 🖥️ Usage
 Creating a Paste: Enter a title and your content. The "Create" button will enable once both fields are filled.
