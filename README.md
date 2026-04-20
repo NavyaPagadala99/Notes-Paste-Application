@@ -17,7 +17,7 @@ Icons: React Icons/SVG images
 
 📦 Installation & Setup
 1.Clone the repository
-git clone https://github.com
+git clone https://github.com/NavyaPagadala99/Notes-Paste-Application.git
 
 2.Install dependencies
 cd PasteApp
