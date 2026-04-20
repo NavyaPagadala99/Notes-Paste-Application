@@ -74,6 +74,7 @@ function Pastes() {
             );
           }
         )
+
       }
       </div>
     </div>

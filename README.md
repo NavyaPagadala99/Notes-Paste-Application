@@ -45,4 +45,5 @@ Dynamic Button State
   {pasteId ? "Update Paste" : "Create Paste"}
 </button>
 
-Made with ❤️ by Navya Pagadala
+![alt text](image.png)
+![alt text](image-1.png)
