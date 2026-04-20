@@ -1,0 +1,27 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;  
+}
+
+.navbar-container{
+    display: flex;
+    text-align: center;
+    background-color: rgb(1, 1, 36);
+    width:100%;
+    height:3rem; 
+    justify-content: center;
+    align-items: center; 
+    gap:1rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family:"Inter",sans-serif;
+}
+.link1{
+    color:rgb(15, 171, 210);
+    text-decoration: none;
+}
+.link2{
+    color:white;
+    text-decoration: none;
+}
