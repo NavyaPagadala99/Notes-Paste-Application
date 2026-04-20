@@ -83,6 +83,9 @@ if (alreadyExists) {
  
 ## 📸 Screenshots
  
-![App Screenshot](image.png)
-![App Screenshot](image-1.png)
+### 📌 Main Dashboard
+![Dashboard](image.png)
+ 
+### ✍️ Create / Edit Paste
+![Editor](image-1.png)
  
